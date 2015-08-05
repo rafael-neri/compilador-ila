@@ -1,0 +1,19 @@
+variaveis
+	
+    caracter nome
+    int a
+    
+inicio
+ 	
+ 	a = 1
+ 	
+ 	x = 2
+ 	
+ 	
+ 	a = (8*x)/4
+ 	
+ 	y = x + a
+ 	
+ 	z = x-a*y
+	
+fim
